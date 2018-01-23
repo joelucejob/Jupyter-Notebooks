@@ -1,0 +1,6 @@
+model_checkpoint_path: "spooky-199.ckpt"
+all_model_checkpoint_paths: "spooky-159.ckpt"
+all_model_checkpoint_paths: "spooky-169.ckpt"
+all_model_checkpoint_paths: "spooky-179.ckpt"
+all_model_checkpoint_paths: "spooky-189.ckpt"
+all_model_checkpoint_paths: "spooky-199.ckpt"
