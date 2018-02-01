@@ -1,6 +1,6 @@
 # Northrop Grumman Machine Learning Employee Attrition Challenge
 
-#### November 2017
+#### September 2017
 
 Goal is to figure whether of not an employee would leave or stay in the company. 
 The dataset is just some random dataset and does not represent Northrop in anyway.
