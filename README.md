@@ -1,2 +1,2 @@
-# Jupyter-Notebooks
-Collection of Jupyter Notebooks I've worked on
+# Machine-Learning-Notebooks
+Collection of Jupyter Notebooks I've done to learn more about machine learning.
